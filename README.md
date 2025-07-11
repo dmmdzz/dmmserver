@@ -90,7 +90,7 @@ unity-lobby-server/
 
 1.  克隆本仓库到您的本地：
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/dmmdzz/dmmserver
     cd unity-lobby-server
     ```
 
